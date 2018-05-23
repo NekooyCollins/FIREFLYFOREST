@@ -10,6 +10,10 @@ import java.io.InputStream;
 import java.net.URL;
 import java.net.HttpURLConnection;
 
+
+
+
+
 /* 连接网络类
 * 这个类的功能就是根据给出的URL，从网络获得输入流，
 * iCiBaURL1 和iCiBaURL2是用于构成查单词的URL的。
