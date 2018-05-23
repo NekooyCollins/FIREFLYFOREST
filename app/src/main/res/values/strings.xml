@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 登录界面 -->
+    <string name="app_name">FIREFLY FOREST</string>
+    <string name="app_main_title">FIREFLY FOREST</string>
+    <string name="app_sub_title">find what you want</string>
+    <string name="register">还没有账户？</string>
+    <string name="login">登录</string>
+    <string name="username_not_exist">用户名不能为空</string>
+    <string name="userpwd_not_exist">密码不能为空</string>
+    <string name="userpwd_length">密码长度小于6位，请重新输入</string>
+    <string name="login_fail">登录失败，请检查账户和密码</string>
+    <string name="forget_pwd"><u>忘记密码?</u></string>
+
+    <!-- 注册界面 -->
+    <string name="register_box">确认注册</string>
+    <string name="cancel_box">取消</string>
+    <string name="name_empty">用户名不能为空</string>
+    <string name="pwd_empty">密码不能为空</string>
+    <string name="pwd_check_empty">请再次输入密码</string>
+    <string name="name_already_exist">此用户名已经被注册</string>
+    <string name="pwd_not_the_same">两次输入密码不一致</string>
+    <string name="register_fail">注册失败 :( </string>
+    <string name="register_success">注册成功~ :) </string>
+
+    <!-- 忘记密码页面 -->
+    <string name="confirm_button">确认</string>
+    <string name="cancel_button">取消</string>
+    <string name="resetpwd_fail">修改密码失败，请检查用户名 :( </string>
+    <string name="resetpwd_success">修改密码成功~ :) </string>
+    <string name="user_not_exist">当前用户不存在，请重新输入</string>
+
+    <!-- 用户提交释义 -->
+    <string name="trans_already_exist">提交释义已经存在 :( </string>
+    <string name="submit_success">提交成功，刷新后可见~ :) </string>
+    <string name="empty_submit">请输入要提交的释义</string>
+
+</resources>
